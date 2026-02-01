@@ -29,13 +29,12 @@
 - **AurionChain** – My custom blockchain project (Smart Contracts, DeFi)  
 - **AurionX** – Crypto Exchange under development  
 - **Web3 DApps** – Ethereum & BSC experiments  
-- **Other Open-Source Projects** – Check my repositories for more  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakarbaig&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarbaig&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakarbaig&show_icons=true&theme=radical&hide_rank=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarbaig&layout=normal&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abubakarbaig&theme=radical)  
 
 ---
@@ -47,11 +46,11 @@
 ---
 
 ## 🔗 Connect With Me
-- 🌐 Portfolio: [abubakarbaig-codes.vercel.app](https://abubakarbaig-codes.vercel.app/)  
-- 💼 LinkedIn: [linkedin.com/in/abubakarbaig](https://linkedin.com/in/abubakarbaig)  
-- 📧 Email: abubakar.baig1178@gmail.com  
-- 📷 Instagram: [bakar_baig](https://instagram.com/bakar_baig)  
-- 💻 LeetCode: [bakr24](https://leetcode.com/bakr24)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abubakarbaig-codes.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abubakarbaig)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakar.baig1178@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bakar_baig)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bakr24)  
 
 ---
 
