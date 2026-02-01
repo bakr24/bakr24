@@ -34,6 +34,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakarbaig&show_icons=true&theme=radical)  
+[![Top Languages](https://img.shields.io/badge/Top_Languages-C++%2CJavaScript-blue?style=for-the-badge)](#)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abubakarbaig&theme=default&border_radius=5&stroke=000000&background=FFFFFF&fire=4CAF50)  
 
 ---
