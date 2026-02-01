@@ -33,14 +33,13 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakarbaig&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarbaig&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abubakarbaig&theme=radical)  
+ 
 
 ---
 
 ## ⚡ Fun Fact / Motto
 *"Building the future, one block at a time."*  
-![Blockchain GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
 
 ---
 
