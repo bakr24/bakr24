@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abubakar Baig</h1>
 <h3 align="center">Web Developer | Blockchain Enthusiast | CS Student</h3>
 
-
-
-- 🔭 I’m currently working on [Blockchain fundamentals, smart contract basics & university CS projects](https://github.com/bakr24)
+- 🔭 I’m currently working on **Blockchain fundamentals, smart contract basics & university CS projects**
 
 - 🌱 I’m currently learning **Web developing, Blockchain, Solidity, Web3.js, Git & Data Structures (C++)**
 
-- 👯 I’m looking to collaborate on [Open-source blockchain, Web3 & beginner-friendly projects](https://github.com/bakr24)
+- 👯 I’m looking to collaborate on **Open-source blockchain, Web3 & beginner-friendly projects**
 
 - 🤝 I’m looking for help with [Smart contracts, DApps, tokenomics & blockchain architecture](https://github.com/bakr24)
 
@@ -15,9 +13,9 @@
 
 - 💬 Ask me about **C++, Programming Fundamentals, Git, Blockchain basics**
 
-- 📫 How to reach me **abubakar.baig1178@gmail.com**
+- 📫 How to reach me **[abubakar.baig1178@gmail.com](mailto:abubakar.baig1178@gmail.com)**
 
-- 📄 Know about my experiences [https://github.com/bakr24/Portfolio/raw/main/CV(abubakar).pdf](https://github.com/bakr24/Portfolio/raw/main/CV(abubakar).pdf)
+- 📄 Know about my experiences [View Resume](https://github.com/bakr24/Portfolio/raw/main/Muhammad_Abubakar_Baig_Resume.pdf)
 
 - ⚡ Fun fact **I enjoy turning complex problems into simple solutions**
 
@@ -25,6 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bakrbaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bakrbaig" height="30" width="40" /></a>
 <a href="https://instagram.com/bakar_baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bakar_baig" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/bakr24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bakr24" height="30" width="40" /></a>
 </p>
 
