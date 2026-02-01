@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abu Bakar Baig
+# Hi 👋, I'm AbuBakar Baig
 
 🚀 Blockchain Enthusiast | Web Developer | Tech Learner  
 💡 Building Web3, Blockchain & Open-Source Projects  
@@ -6,12 +6,16 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Blockchain Development & Web3**  
-- 🧠 Interested in **Smart Contracts, DeFi, and Crypto**  
+- 🌱 Currently learning **Web Developing, Blockchain Development & Web3**  
+- 🧠 Interested in **Blockchian Development & Smart Contracts**  
 - 💻 Skills: **C++, HTML, CSS, JavaScript, Git**  
-- 📈 Future goal: Build **AurionChain & AurionX Exchange**  
-- 🌍 Location: **Lahore, Pakistan**  
+- 📈 Future goal: Build **AurionChain & AurionX Exchange**   
 - 🤝 Open to collaborations, mentorship, and learning opportunities  
+
+---
+
+## ⚡ Fun Fact / Motto
+*"Building the future, one block at a time."*  
 
 ---
 
@@ -21,14 +25,14 @@
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)  
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)  
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)  
-![Blockchain](https://img.shields.io/badge/Blockchain-ethereum-purple?style=for-the-badge)  
+![Blockchain](https://img.shields.io/badge/Blockchain-purple?style=for-the-badge)  
 
 ---
 
 ## 🚀 Projects
-- **AurionChain** – My custom blockchain project (Smart Contracts, DeFi)  
-- **AurionX** – Crypto Exchange under development  
-- **Web3 DApps** – Ethereum & BSC experiments  
+- **AurionChain** – My custom blockchain project(future goal)
+- **Portfolio Website** - My Own Portfolio
+- **C++ tasks** - Lab tasks including Fundamentals, OOP and Data Structures
 
 ---
 
@@ -38,10 +42,6 @@
 
 ---
 
-## ⚡ Fun Fact / Motto
-*"Building the future, one block at a time."*  
-
----
 
 ## 🔗 Connect With Me
 [![Website](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abubakarbaig-codes.vercel.app/)  
