@@ -34,13 +34,18 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakarbaig&show_icons=true&theme=radical)  
-[![Top Languages](https://img.shields.io/badge/Top_Languages-C++%2CJavaScript-blue?style=for-the-badge)](#)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abubakarbaig&theme=default&border_radius=5&stroke=000000&background=FFFFFF&fire=4CAF50)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarbaig&layout=compact&theme=radical)  
+
+---
+
+## ⚡ Fun Fact / Motto
+*"Building the future, one block at a time."*  
+![Blockchain GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
 
 ---
 
 ## 🔗 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abubakarbaig-codes.vercel.app/)  
+[![Website](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abubakarbaig-codes.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abubakarbaig)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakar.baig1178@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bakar_baig)  
