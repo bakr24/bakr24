@@ -30,9 +30,10 @@
 ---
 
 ## 🚀 Projects
-- **[AurionChain](#)** – Custom blockchain project (future goal)  
-- **[Portfolio Website](https://abubakarbaig-codes.vercel.app/)** – My personal portfolio  
-- **C++ Tasks** – Lab tasks covering Fundamentals, OOP, and Data Structures  
+- **AurionChain** – Custom blockchain project (future goal)  
+- **Portfolio Website** - [Click Here](https://abubakarbaig-codes.vercel.app/)
+- **C++ Tasks** – Lab tasks covering Fundamentals, OOP, and Data Structures
+- **Blockchain Project** - Blockchain-Based Charity Tranparency System
 
 ---
 
