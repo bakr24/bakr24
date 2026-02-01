@@ -37,8 +37,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abubakarbaig&theme=radical)  
+
  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bakr24&theme=default&border_radius=5&stroke=000000&background=FFFFFF&fire=4CAF50)
 
 ---
 
