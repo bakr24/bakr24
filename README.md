@@ -6,8 +6,8 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Web Developing, Blockchain Development & Web3**  
-- 🧠 Interested in **Blockchian Development & Smart Contracts**  
+- 🌱 Currently learning **Web Development, Blockchain Development & Web3**  
+- 🧠 Interested in **Blockchain Development & Smart Contracts**  
 - 💻 Skills: **C++, HTML, CSS, JavaScript, Git**  
 - 📈 Future goal: Build **AurionChain & AurionX Exchange**   
 - 🤝 Open to collaborations, mentorship, and learning opportunities  
@@ -30,22 +30,25 @@
 ---
 
 ## 🚀 Projects
-- **AurionChain** – My custom blockchain project(future goal)
-- **Portfolio Website** - My Own Portfolio
-- **C++ tasks** - Lab tasks including Fundamentals, OOP and Data Structures
+- **AurionChain** – My custom blockchain project (future goal)  
+- **Portfolio Website** – My own portfolio  
+- **C++ Tasks** – Lab tasks including Fundamentals, OOP, and Data Structures  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bakr24&theme=default&border_radius=5&stroke=000000&background=FFFFFF&fire=4CAF50)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bakr24&show_icons=true&theme=radical)  
+![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-Active-green?style=for-the-badge&logo=github)
 
 ---
 
-
 ## 🔗 Connect With Me
+<!-- First row: 3 badges -->
 [![Website](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abubakarbaig-codes.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abubakarbaig)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakar.baig1178@gmail.com)  
+
+<!-- Second row: 2 badges -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bakar_baig)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bakr24)  
 
