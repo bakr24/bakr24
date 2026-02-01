@@ -37,10 +37,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bakr24&show_icons=true&theme=radical)  
-![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-Active-green?style=for-the-badge&logo=github)
-
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=bakr24&theme=radical)](https://git.io/streak-stats)
 
 ## 🔗 Connect With Me
 <!-- First row: 3 badges -->
