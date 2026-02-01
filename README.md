@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abubakar Baig</h1>
 <h3 align="center">Web Developer | Blockchain Enthusiast | CS Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakr24" alt="bakr24" /></a> </p>
+
 
 - 🔭 I’m currently working on [Blockchain fundamentals, smart contract basics & university CS projects](https://github.com/bakr24)
 
