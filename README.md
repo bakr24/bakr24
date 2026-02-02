@@ -42,7 +42,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bakar_baig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bakrbaig) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abubakar.baig1178@gmail.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakar.baig1178@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bakr24)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bakar_baig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bakrbaig) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abubakar.baig1178@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/bakr24)  
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abubakarbaig-codes.vercel.app/)  
