@@ -38,7 +38,8 @@
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=bakr24&theme=radical)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bakr24)](https://git.io/streak-stats)
 
 ---
 
